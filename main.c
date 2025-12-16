@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <sys/time.h>
 
+// Yahir Figueroa Vega
+
 #define REPETITIONS 10  // Represent runs for getting average time
 
 // This functions reads a file with n agens and m goods

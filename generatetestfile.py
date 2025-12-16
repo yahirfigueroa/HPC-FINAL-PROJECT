@@ -1,6 +1,8 @@
 import sys
 import random
 
+#Yahir Figueroa Vega
+
 if len(sys.argv) != 3:
     print("Usage: python generate_simple_realistic.py <n> <m>")
     sys.exit(1)
